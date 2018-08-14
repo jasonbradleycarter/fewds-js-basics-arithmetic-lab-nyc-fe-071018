@@ -16,6 +16,5 @@ const randomNumber = Math.random(0,20);
 
 const randomInteger = Math.round(randomNumber);
 
-const randomUserID = 1000000000 + randomInteger;
 
 
